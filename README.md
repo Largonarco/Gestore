@@ -1,6 +1,6 @@
 # Gestore
 
-#### A RFID based cafe interface built for organisations.
+#### An RFID based cafe interface built for organisations.
 
 #### This project is meant to digitize a cafe or cafe equivalent in any organisation with ease and can scale accordingly to the organisation's needs.
 
